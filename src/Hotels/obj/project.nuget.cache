@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3YtYwhOTC3ZkQgY5j3TJgyLUdsv4jOqKfO49vT+jr+YG1iK6WuQpUoTi+qX+LoPFqsVwvC93vsoiQyeM3eS+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\florm\\OneDrive\\Documents\\GitHub\\Laboratorio de Web APPIRESTFull\\WebAPIRESTLAB01\\src\\Hotels\\Hotels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\florm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\florm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\florm\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\florm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\florm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\florm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
