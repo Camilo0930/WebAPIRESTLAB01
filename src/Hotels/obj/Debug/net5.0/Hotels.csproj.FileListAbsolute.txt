@@ -22,7 +22,6 @@ C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIR
 C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIRESTLAB01\src\Hotels\obj\Debug\net5.0\staticwebassets\Hotels.StaticWebAssets.xml
 C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIRESTLAB01\src\Hotels\obj\Debug\net5.0\scopedcss\bundle\Hotels.styles.css
 C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIRESTLAB01\src\Hotels\obj\Debug\net5.0\Hotels.RazorTargetAssemblyInfo.cache
-C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIRESTLAB01\src\Hotels\obj\Debug\net5.0\Hotels.csproj.CopyComplete
 C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIRESTLAB01\src\Hotels\obj\Debug\net5.0\Hotels.dll
 C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIRESTLAB01\src\Hotels\obj\Debug\net5.0\ref\Hotels.dll
 C:\Users\florm\OneDrive\Documents\GitHub\Laboratorio de Web APPIRESTFull\WebAPIRESTLAB01\src\Hotels\obj\Debug\net5.0\Hotels.pdb

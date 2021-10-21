@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BBD4C806-D20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotels", "src\Hotels\Hotels.csproj", "{B2956ABC-E74A-4A30-AC7B-9C30DEA730F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotels.UnitTests", "src\Hotels.UnitTests\Hotels.UnitTests.csproj", "{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +34,21 @@ Global
 		{B2956ABC-E74A-4A30-AC7B-9C30DEA730F9}.Release|x64.Build.0 = Release|Any CPU
 		{B2956ABC-E74A-4A30-AC7B-9C30DEA730F9}.Release|x86.ActiveCfg = Release|Any CPU
 		{B2956ABC-E74A-4A30-AC7B-9C30DEA730F9}.Release|x86.Build.0 = Release|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Debug|x64.Build.0 = Debug|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Debug|x86.Build.0 = Debug|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Release|x64.ActiveCfg = Release|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Release|x64.Build.0 = Release|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Release|x86.ActiveCfg = Release|Any CPU
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B2956ABC-E74A-4A30-AC7B-9C30DEA730F9} = {BBD4C806-D20A-4707-93A9-AC9B414D99D6}
+		{6AD9CA5A-9AC3-44B6-9F49-E2C8D3554E62} = {BBD4C806-D20A-4707-93A9-AC9B414D99D6}
 	EndGlobalSection
 EndGlobal
